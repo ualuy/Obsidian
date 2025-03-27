@@ -1,0 +1,1 @@
+A form of [[Programming]], scripting uses languages like JavaScript, [[Bash]], or [[Python]] to write code that is interpreted line-by-line, which means compiling happens when the code is run (or not at all), so the script can execute up to a certain point then have errors afterwards due to errors in lines. 

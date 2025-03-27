@@ -1,0 +1,3 @@
+Using languages like C++, C & Java to develop software, game engines, etc. 
+Typically takes a longer time to finish developing code than [[Scripting]] due to needing to debug and compile code.
+Execution of the code takes less time than [[Scripting]] because compiling is run on hardware, and [[Scripting]] is on software. Compiling happens before any code is executed, so it takes less time to finish the whole program.

@@ -1,0 +1,1 @@
+Both a [[Command-line shell]] and a form of [[Scripting]], PowerShell is a language developed by Microsoft for task automation and management. It is more suitable for Windows due to being a "object based" shell. This basically means this is a simpler form of navigation since the interface is easier to understand for a user.
